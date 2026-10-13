@@ -1,0 +1,1486 @@
+{
+ "alphabet": [
+  {
+   "key": "alif",
+   "glyph": "ا",
+   "ar": "أَلِف",
+   "en": "Alif · a",
+   "km": "សំឡេងដូច អា",
+   "forms": "ا  ـا",
+   "audio": "alif",
+   "src": "mp3/alif.mp3"
+  },
+  {
+   "key": "baa",
+   "glyph": "ب",
+   "ar": "بَاء",
+   "en": "Baa · b",
+   "km": "សំឡេងដូច ប",
+   "forms": "بـ  ـبـ  ـب",
+   "audio": "ba",
+   "src": "mp3/ba.mp3"
+  },
+  {
+   "key": "taa",
+   "glyph": "ت",
+   "ar": "تَاء",
+   "en": "Taa · t",
+   "km": "សំឡេងដូច ត",
+   "forms": "تـ  ـتـ  ـت",
+   "audio": "ta",
+   "src": "mp3/ta.mp3"
+  },
+  {
+   "key": "thaa",
+   "glyph": "ث",
+   "ar": "ثَاء",
+   "en": "Thaa · th (think)",
+   "km": "មិនមានក្នុងភាសាខ្មែរ",
+   "forms": "ثـ  ـثـ  ـث",
+   "audio": "tha",
+   "src": "mp3/tha.mp3"
+  },
+  {
+   "key": "jeem",
+   "glyph": "ج",
+   "ar": "جِيم",
+   "en": "Jeem · j",
+   "km": "សំឡេងដូច ជ",
+   "forms": "جـ  ـجـ  ـج",
+   "audio": "jiim",
+   "src": "mp3/jiim.mp3"
+  },
+  {
+   "key": "haa_h",
+   "glyph": "ح",
+   "ar": "حَاء",
+   "en": "Ḥaa · ḥ (strong h)",
+   "km": "មិនមានក្នុងភាសាខ្មែរ",
+   "forms": "حـ  ـحـ  ـح",
+   "audio": "hha",
+   "src": "mp3/hha.mp3"
+  },
+  {
+   "key": "khaa",
+   "glyph": "خ",
+   "ar": "خَاء",
+   "en": "Khaa · kh",
+   "km": "មិនមានក្នុងភាសាខ្មែរ",
+   "forms": "خـ  ـخـ  ـخ",
+   "audio": "kha",
+   "src": "mp3/kha.mp3"
+  },
+  {
+   "key": "daal",
+   "glyph": "د",
+   "ar": "دَال",
+   "en": "Daal · d",
+   "km": "សំឡេងដូច ដ",
+   "forms": "د  ـد",
+   "audio": "daal",
+   "src": "mp3/daal.mp3"
+  },
+  {
+   "key": "dhaal",
+   "glyph": "ذ",
+   "ar": "ذَال",
+   "en": "Dhaal · dh (this)",
+   "km": "មិនមានក្នុងភាសាខ្មែរ",
+   "forms": "ذ  ـذ",
+   "audio": "thaal",
+   "src": "mp3/thaal.mp3"
+  },
+  {
+   "key": "raa",
+   "glyph": "ر",
+   "ar": "رَاء",
+   "en": "Raa · r (rolled)",
+   "km": "សំឡេងដូច រ",
+   "forms": "ر  ـر",
+   "audio": "ra",
+   "src": "mp3/ra.mp3"
+  },
+  {
+   "key": "zaay",
+   "glyph": "ز",
+   "ar": "زَاي",
+   "en": "Zaay · z",
+   "km": "សំឡេងដូច ហ្ស",
+   "forms": "ز  ـز",
+   "audio": "zay",
+   "src": "mp3/zay.mp3"
+  },
+  {
+   "key": "seen",
+   "glyph": "س",
+   "ar": "سِين",
+   "en": "Seen · s",
+   "km": "សំឡេងដូច ស",
+   "forms": "سـ  ـسـ  ـس",
+   "audio": "siin",
+   "src": "mp3/siin.mp3"
+  },
+  {
+   "key": "sheen",
+   "glyph": "ش",
+   "ar": "شِين",
+   "en": "Sheen · sh",
+   "km": "មិនមានក្នុងភាសាខ្មែរ",
+   "forms": "شـ  ـشـ  ـش",
+   "audio": "shiin",
+   "src": "mp3/shiin.mp3"
+  },
+  {
+   "key": "saad",
+   "glyph": "ص",
+   "ar": "صَاد",
+   "en": "Ṣaad · ṣ (heavy s)",
+   "km": "មិនមានក្នុងភាសាខ្មែរ",
+   "forms": "صـ  ـصـ  ـص",
+   "audio": "saad",
+   "src": "mp3/saad.mp3"
+  },
+  {
+   "key": "daad",
+   "glyph": "ض",
+   "ar": "ضَاد",
+   "en": "Ḍaad · ḍ (heavy d)",
+   "km": "មិនមានក្នុងភាសាខ្មែរ",
+   "forms": "ضـ  ـضـ  ـض",
+   "audio": "daad",
+   "src": "mp3/daad.mp3"
+  },
+  {
+   "key": "taa_h",
+   "glyph": "ط",
+   "ar": "طَاء",
+   "en": "Ṭaa · ṭ (heavy t)",
+   "km": "មិនមានក្នុងភាសាខ្មែរ",
+   "forms": "طـ  ـطـ  ـط",
+   "audio": "taa",
+   "src": "mp3/taa.mp3"
+  },
+  {
+   "key": "zaa_h",
+   "glyph": "ظ",
+   "ar": "ظَاء",
+   "en": "Ẓaa · ẓ (heavy dh)",
+   "km": "មិនមានក្នុងភាសាខ្មែរ",
+   "forms": "ظـ  ـظـ  ـظ",
+   "audio": "thaa",
+   "src": "mp3/thaa.mp3"
+  },
+  {
+   "key": "ayn",
+   "glyph": "ع",
+   "ar": "عَيْن",
+   "en": "ʿAyn · ʿ (throat)",
+   "km": "មិនមានក្នុងភាសាខ្មែរ",
+   "forms": "عـ  ـعـ  ـع",
+   "audio": "ayn",
+   "src": "mp3/ayn.mp3"
+  },
+  {
+   "key": "ghayn",
+   "glyph": "غ",
+   "ar": "غَيْن",
+   "en": "Ghayn · gh",
+   "km": "មិនមានក្នុងភាសាខ្មែរ",
+   "forms": "غـ  ـغـ  ـغ",
+   "audio": "ghayn",
+   "src": "mp3/ghayn.mp3"
+  },
+  {
+   "key": "faa",
+   "glyph": "ف",
+   "ar": "فَاء",
+   "en": "Faa · f",
+   "km": "សំឡេងដូច ហ្វ",
+   "forms": "فـ  ـفـ  ـف",
+   "audio": "fa",
+   "src": "mp3/fa.mp3"
+  },
+  {
+   "key": "qaaf",
+   "glyph": "ق",
+   "ar": "قَاف",
+   "en": "Qaaf · q (deep k)",
+   "km": "មិនមានក្នុងភាសាខ្មែរ",
+   "forms": "قـ  ـقـ  ـق",
+   "audio": "qaf",
+   "src": "mp3/qaf.mp3"
+  },
+  {
+   "key": "kaaf",
+   "glyph": "ك",
+   "ar": "كَاف",
+   "en": "Kaaf · k",
+   "km": "សំឡេងដូច ក",
+   "forms": "كـ  ـكـ  ـك",
+   "audio": "kaf",
+   "src": "mp3/kaf.mp3"
+  },
+  {
+   "key": "laam",
+   "glyph": "ل",
+   "ar": "لَام",
+   "en": "Laam · l",
+   "km": "សំឡេងដូច ល",
+   "forms": "لـ  ـلـ  ـل",
+   "audio": "lam",
+   "src": "mp3/lam.mp3"
+  },
+  {
+   "key": "meem",
+   "glyph": "م",
+   "ar": "مِيم",
+   "en": "Meem · m",
+   "km": "សំឡេងដូច ម",
+   "forms": "مـ  ـمـ  ـم",
+   "audio": "miim",
+   "src": "mp3/miim.mp3"
+  },
+  {
+   "key": "noon",
+   "glyph": "ن",
+   "ar": "نُون",
+   "en": "Noon · n",
+   "km": "សំឡេងដូច ន",
+   "forms": "نـ  ـنـ  ـن",
+   "audio": "nuun",
+   "src": "mp3/nuun.mp3"
+  },
+  {
+   "key": "haa",
+   "glyph": "ه",
+   "ar": "هَاء",
+   "en": "Haa · h",
+   "km": "សំឡេងដូច ហ",
+   "forms": "هـ  ـهـ  ـه",
+   "audio": "ha",
+   "src": "mp3/ha.mp3"
+  },
+  {
+   "key": "waaw",
+   "glyph": "و",
+   "ar": "وَاو",
+   "en": "Waaw · w / ū",
+   "km": "សំឡេងដូច វ",
+   "forms": "و  ـو",
+   "audio": "waw",
+   "src": "mp3/waw.mp3"
+  },
+  {
+   "key": "yaa",
+   "glyph": "ي",
+   "ar": "يَاء",
+   "en": "Yaa · y / ī",
+   "km": "សំឡេងដូច យ",
+   "forms": "يـ  ـيـ  ـي",
+   "audio": "ya",
+   "src": "mp3/ya.mp3"
+  }
+ ],
+ "colors": [
+  {
+   "key": "red",
+   "ar": "أَحْمَرُ",
+   "en": "Red",
+   "km": "ពណ៌ក្រហម",
+   "hex": "#e53935",
+   "audio": "color_red",
+   "src": "mp3/color_red.mp3"
+  },
+  {
+   "key": "blue",
+   "ar": "أَزْرَقُ",
+   "en": "Blue",
+   "km": "ពណ៌ខៀវ",
+   "hex": "#1e6fe0",
+   "audio": "color_blue",
+   "src": "mp3/color_blue.mp3"
+  },
+  {
+   "key": "yellow",
+   "ar": "أَصْفَرُ",
+   "en": "Yellow",
+   "km": "ពណ៌លឿង",
+   "hex": "#fbc02d",
+   "audio": "color_yellow",
+   "src": "mp3/color_yellow.mp3"
+  },
+  {
+   "key": "green",
+   "ar": "أَخْضَرُ",
+   "en": "Green",
+   "km": "ពណ៌បៃតង",
+   "hex": "#2e9e4f",
+   "audio": "color_green",
+   "src": "mp3/color_green.mp3"
+  },
+  {
+   "key": "orange",
+   "ar": "بُرْتُقَالِيٌّ",
+   "en": "Orange",
+   "km": "ពណ៌ទឹកក្រូច",
+   "hex": "#fb8c00",
+   "audio": "color_orange",
+   "src": "mp3/color_orange.mp3"
+  },
+  {
+   "key": "purple",
+   "ar": "أُرْجُوَانِيٌّ / بَنَفْسَجِيٌّ",
+   "en": "Purple",
+   "km": "ពណ៌ស្វាយ",
+   "hex": "#8e44ad",
+   "audio": "color_purple",
+   "src": "mp3/color_purple.mp3"
+  },
+  {
+   "key": "pink",
+   "ar": "قُرُنْفُلِيٌّ / وَرْدِيٌّ",
+   "en": "Pink",
+   "km": "ពណ៌ផ្កាឈូក",
+   "hex": "#f06292",
+   "audio": "color_pink",
+   "src": "mp3/color_pink.mp3"
+  },
+  {
+   "key": "brown",
+   "ar": "بُنِّيٌّ",
+   "en": "Brown",
+   "km": "ពណ៌ត្នោត",
+   "hex": "#8d5a3b",
+   "audio": "color_brown",
+   "src": "mp3/color_brown.mp3"
+  },
+  {
+   "key": "white",
+   "ar": "أَبْيَضُ",
+   "en": "White",
+   "km": "ពណ៌ស",
+   "hex": "#ffffff",
+   "audio": "color_white",
+   "src": "mp3/color_white.mp3"
+  },
+  {
+   "key": "black",
+   "ar": "أَسْوَدُ",
+   "en": "Black",
+   "km": "ពណ៌ខ្មៅ",
+   "hex": "#1b1b1f",
+   "audio": "color_black",
+   "src": "mp3/color_black.mp3"
+  },
+  {
+   "key": "gray",
+   "ar": "رَمَادِيٌّ",
+   "en": "Gray",
+   "km": "ពណ៌ប្រផេះ",
+   "hex": "#9097a0",
+   "audio": "color_gray",
+   "src": "mp3/color_gray.mp3"
+  },
+  {
+   "key": "indigo",
+   "ar": "نِيلِيٌّ",
+   "en": "Indigo",
+   "km": "ពណ៌ខៀវចាស់",
+   "hex": "#3f3dab",
+   "audio": "color_indigo",
+   "src": "mp3/color_indigo.mp3"
+  },
+  {
+   "key": "skyblue",
+   "ar": "سَمَاوِيٌّ",
+   "en": "Sky blue",
+   "km": "ពណ៌ខៀវខ្ចី",
+   "hex": "#5ec5f2",
+   "audio": "color_skyblue",
+   "src": "mp3/color_skyblue.mp3"
+  },
+  {
+   "key": "gold",
+   "ar": "ذَهَبِيٌّ",
+   "en": "Gold",
+   "km": "ពណ៌មាស",
+   "hex": "#d4a017",
+   "audio": "color_gold",
+   "src": "mp3/color_gold.mp3"
+  },
+  {
+   "key": "silver",
+   "ar": "فِضِّيٌّ",
+   "en": "Silver",
+   "km": "ពណ៌ប្រាក់",
+   "hex": "#c0c6cf",
+   "audio": "color_silver",
+   "src": "mp3/color_silver.mp3"
+  }
+ ],
+ "numbers": [
+  {
+   "key": "n0",
+   "n": 0,
+   "ard": "٠",
+   "ar": "صِفْرٌ",
+   "en": "Zero",
+   "km": "លេខសូន្យ (០)",
+   "audio": "number_zero",
+   "src": "mp3-2/number_zero.mp3"
+  },
+  {
+   "key": "n1",
+   "n": 1,
+   "ard": "١",
+   "ar": "وَاحِدٌ",
+   "en": "One",
+   "km": "លេខមួយ (១)",
+   "audio": "number_number_1",
+   "src": "mp3-2/number_number_1.mp3"
+  },
+  {
+   "key": "n2",
+   "n": 2,
+   "ard": "٢",
+   "ar": "اِثْنَانِ",
+   "en": "Two",
+   "km": "លេខពីរ (២)",
+   "audio": "number_number_2",
+   "src": "mp3-2/number_number_2.mp3"
+  },
+  {
+   "key": "n3",
+   "n": 3,
+   "ard": "٣",
+   "ar": "ثَلَاثَةٌ",
+   "en": "Three",
+   "km": "លេខបី (៣)",
+   "audio": "number_number_3",
+   "src": "mp3-2/number_number_3.mp3"
+  },
+  {
+   "key": "n4",
+   "n": 4,
+   "ard": "٤",
+   "ar": "أَرْبَعَةٌ",
+   "en": "Four",
+   "km": "លេខបួន (៤)",
+   "audio": "number_number_4",
+   "src": "mp3-2/number_number_4.mp3"
+  },
+  {
+   "key": "n5",
+   "n": 5,
+   "ard": "٥",
+   "ar": "خَمْسَةٌ",
+   "en": "Five",
+   "km": "លេខប្រាំ (៥)",
+   "audio": "number_number_5",
+   "src": "mp3-2/number_number_5.mp3"
+  },
+  {
+   "key": "n6",
+   "n": 6,
+   "ard": "٦",
+   "ar": "سِتَّةٌ",
+   "en": "Six",
+   "km": "លេខប្រាំមួយ (៦)",
+   "audio": "number_number_6",
+   "src": "mp3-2/number_number_6.mp3"
+  },
+  {
+   "key": "n7",
+   "n": 7,
+   "ard": "٧",
+   "ar": "سَبْعَةٌ",
+   "en": "Seven",
+   "km": "លេខប្រាំពីរ (៧)",
+   "audio": "number_number_7",
+   "src": "mp3-2/number_number_7.mp3"
+  },
+  {
+   "key": "n8",
+   "n": 8,
+   "ard": "٨",
+   "ar": "ثَمَانِيَةٌ",
+   "en": "Eight",
+   "km": "លេខប្រាំបី (៨)",
+   "audio": "number_number_8",
+   "src": "mp3-2/number_number_8.mp3"
+  },
+  {
+   "key": "n9",
+   "n": 9,
+   "ard": "٩",
+   "ar": "تِسْعَةٌ",
+   "en": "Nine",
+   "km": "លេខប្រាំបួន (៩)",
+   "audio": "number_number_9",
+   "src": "mp3-2/number_number_9.mp3"
+  },
+  {
+   "key": "n10",
+   "n": 10,
+   "ard": "١٠",
+   "ar": "عَشَرَةٌ",
+   "en": "Ten",
+   "km": "លេខដប់ (១០)",
+   "audio": "number_number_10",
+   "src": "mp3-2/number_number_10.mp3"
+  },
+  {
+   "key": "n20",
+   "n": 20,
+   "ard": "٢٠",
+   "ar": "عِشْرُونَ",
+   "en": "Twenty",
+   "km": "លេខម្ភៃ (២០)",
+   "audio": "number_20",
+   "src": "mp3-2/number_20.mp3"
+  },
+  {
+   "key": "n30",
+   "n": 30,
+   "ard": "٣٠",
+   "ar": "ثَلَاثُونَ",
+   "en": "Thirty",
+   "km": "លេខសាមសិប (៣០)",
+   "audio": "number_30",
+   "src": "mp3-2/number_30.mp3"
+  },
+  {
+   "key": "n40",
+   "n": 40,
+   "ard": "٤٠",
+   "ar": "أَرْبَعُونَ",
+   "en": "Forty",
+   "km": "លេខសែសិប (៤០)",
+   "audio": "number_40",
+   "src": "mp3-2/number_40.mp3"
+  },
+  {
+   "key": "n50",
+   "n": 50,
+   "ard": "٥٠",
+   "ar": "خَمْسُونَ",
+   "en": "Fifty",
+   "km": "លេខហាសិប (៥០)",
+   "audio": "number_50",
+   "src": "mp3-2/number_50.mp3"
+  },
+  {
+   "key": "n60",
+   "n": 60,
+   "ard": "٦٠",
+   "ar": "سِتُّونَ",
+   "en": "Sixty",
+   "km": "លេខហុកសិប (៦០)",
+   "audio": "number_60",
+   "src": "mp3-2/number_60.mp3"
+  },
+  {
+   "key": "n70",
+   "n": 70,
+   "ard": "٧٠",
+   "ar": "سَبْعُونَ",
+   "en": "Seventy",
+   "km": "លេខចិតសិប (៧០)",
+   "audio": "number_70",
+   "src": "mp3-2/number_70.mp3"
+  },
+  {
+   "key": "n80",
+   "n": 80,
+   "ard": "٨٠",
+   "ar": "ثَمَانُونَ",
+   "en": "Eighty",
+   "km": "លេខប៉ែតសិប (៨០)",
+   "audio": "number_80",
+   "src": "mp3-2/number_80.mp3"
+  },
+  {
+   "key": "n90",
+   "n": 90,
+   "ard": "٩٠",
+   "ar": "تِسْعُونَ",
+   "en": "Ninety",
+   "km": "លេខកៅសិប (៩០)",
+   "audio": "number_90",
+   "src": "mp3-2/number_90.mp3"
+  },
+  {
+   "key": "n100",
+   "n": 100,
+   "ard": "١٠٠",
+   "ar": "مِائَةٌ",
+   "en": "One hundred",
+   "km": "លេខមួយរយ (១០០)",
+   "audio": "number_100",
+   "src": "mp3-2/number_100.mp3"
+  },
+  {
+   "key": "n1000",
+   "n": 1000,
+   "ard": "١٠٠٠",
+   "ar": "أَلْفٌ",
+   "en": "One thousand",
+   "km": "លេខមួយពាន់ (១០០០)",
+   "audio": "number_1000",
+   "src": "mp3-2/number_1000.mp3"
+  }
+ ],
+ "islamic-days": [
+  {
+   "key": "al_ahad",
+   "i": 1,
+   "ar": "يَوْمُ الْأَحَدِ",
+   "short": "الأحد",
+   "en": "Sunday",
+   "km": "ថ្ងៃអាទិត្យ",
+   "col": "#f59e0b",
+   "audio": "day_al_ahad",
+   "src": "mp3-2/day_al_ahad.mp3"
+  },
+  {
+   "key": "al_ithnayn",
+   "i": 2,
+   "ar": "يَوْمُ الِاثْنَيْنِ",
+   "short": "الاثنين",
+   "en": "Monday",
+   "km": "ថ្ងៃច័ន្ទ",
+   "col": "#f97316",
+   "audio": "day_al_ithnayn",
+   "src": "mp3-2/day_al_ithnayn.mp3"
+  },
+  {
+   "key": "al_thulatha",
+   "i": 3,
+   "ar": "يَوْمُ الثُّلَاثَاءِ",
+   "short": "الثلاثاء",
+   "en": "Tuesday",
+   "km": "ថ្ងៃអង្គារ",
+   "col": "#ec4899",
+   "audio": "day_al_thulatha",
+   "src": "mp3-2/day_al_thulatha.mp3"
+  },
+  {
+   "key": "al_arbia",
+   "i": 4,
+   "ar": "يَوْمُ الْأَرْبِعَاءِ",
+   "short": "الأربعاء",
+   "en": "Wednesday",
+   "km": "ថ្ងៃពុធ",
+   "col": "#22c55e",
+   "audio": "day_al_arbia",
+   "src": "mp3-2/day_al_arbia.mp3"
+  },
+  {
+   "key": "al_khamis",
+   "i": 5,
+   "ar": "يَوْمُ الْخَمِيسِ",
+   "short": "الخميس",
+   "en": "Thursday",
+   "km": "ថ្ងៃព្រហស្បតិ៍",
+   "col": "#3b82f6",
+   "audio": "day_al_khamis",
+   "src": "mp3-2/day_al_khamis.mp3"
+  },
+  {
+   "key": "al_jumaah",
+   "i": 6,
+   "ar": "يَوْمُ الْجُمُعَةِ",
+   "short": "الجمعة",
+   "en": "Friday",
+   "km": "ថ្ងៃសុក្រ",
+   "col": "#06b6d4",
+   "audio": "day_al_jumaah",
+   "src": "mp3-2/day_al_jumaah.mp3"
+  },
+  {
+   "key": "al_sabt",
+   "i": 7,
+   "ar": "يَوْمُ السَّبْتِ",
+   "short": "السبت",
+   "en": "Saturday",
+   "km": "ថ្ងៃសៅរ៍",
+   "col": "#8b5cf6",
+   "audio": "day_al_sabt",
+   "src": "mp3-2/day_al_sabt.mp3"
+  }
+ ],
+ "islamic-months": [
+  {
+   "key": "muharram",
+   "i": 1,
+   "ar": "شَهْرُ مُحَرَّمٍ",
+   "short": "محرم",
+   "en": "Muharram",
+   "km": "ខែមូហារ៉ម",
+   "audio": "month_muharram",
+   "src": "mp3-2/month_muharram.mp3"
+  },
+  {
+   "key": "safar",
+   "i": 2,
+   "ar": "شَهْرُ صَفَرٍ",
+   "short": "صفر",
+   "en": "Safar",
+   "km": "ខែសាហ្វើរ",
+   "audio": "month_safar",
+   "src": "mp3-2/month_safar.mp3"
+  },
+  {
+   "key": "rabi1",
+   "i": 3,
+   "ar": "شَهْرُ رَبِيعٍ الْأَوَّلِ",
+   "short": "ربيع الأول",
+   "en": "Rabiʿ al-Awwal",
+   "km": "ខែរ៉ាពីអុលអាវ៉ាល់",
+   "audio": "month_raba_1",
+   "src": "mp3-2/month_raba_1.mp3"
+  },
+  {
+   "key": "rabi2",
+   "i": 4,
+   "ar": "شَهْرُ رَبِيعٍ الْآخِرِ",
+   "short": "ربيع الآخر",
+   "en": "Rabiʿ al-Akhir (al-Thani)",
+   "km": "ខែរ៉ាពីអុលអាឃៀរ",
+   "audio": "month_raba_2",
+   "src": "mp3-2/month_raba_2.mp3"
+  },
+  {
+   "key": "jumada1",
+   "i": 5,
+   "ar": "شَهْرُ جُمَادَى الْأُولَى",
+   "short": "جمادى الأولى",
+   "en": "Jumada al-Ula",
+   "km": "ខែចាម៉ាទិលអ៊ូឡា",
+   "audio": "month_jumadi_1",
+   "src": "mp3-2/month_jumadi_1.mp3"
+  },
+  {
+   "key": "jumada2",
+   "i": 6,
+   "ar": "شَهْرُ جُمَادَى الْآخِرَةِ",
+   "short": "جمادى الآخرة",
+   "en": "Jumada al-Akhirah",
+   "km": "ខែចាម៉ាទិលអាឃីរ៉ោះ",
+   "audio": "month_al_jumaah",
+   "src": "mp3-2/month_al_jumaah.mp3"
+  },
+  {
+   "key": "rajab",
+   "i": 7,
+   "ar": "شَهْرُ رَجَبٍ",
+   "short": "رجب",
+   "en": "Rajab",
+   "km": "ខែរ៉ាជាប់",
+   "audio": "month_rajab",
+   "src": "mp3-2/month_rajab.mp3"
+  },
+  {
+   "key": "shaban",
+   "i": 8,
+   "ar": "شَهْرُ شَعْبَانَ",
+   "short": "شعبان",
+   "en": "Shaʿban",
+   "km": "ខែហ្សាក់ប៉ាន",
+   "audio": "month_shaban",
+   "src": "mp3-2/month_shaban.mp3"
+  },
+  {
+   "key": "ramadan",
+   "i": 9,
+   "ar": "شَهْرُ رَمَضَانَ",
+   "short": "رمضان",
+   "en": "Ramadan",
+   "km": "ខែរ៉ម៉ាឌន",
+   "audio": "month_ramadan",
+   "src": "mp3-2/month_ramadan.mp3"
+  },
+  {
+   "key": "shawwal",
+   "i": 10,
+   "ar": "شَهْرُ شَوَّالٍ",
+   "short": "شوال",
+   "en": "Shawwal",
+   "km": "ខែហ្សាវ៉ាល់",
+   "audio": "month_shawal",
+   "src": "mp3-2/month_shawal.mp3"
+  },
+  {
+   "key": "dhulqadah",
+   "i": 11,
+   "ar": "شَهْرُ ذِي الْقَعْدَةِ",
+   "short": "ذو القعدة",
+   "en": "Dhu al-Qaʿdah",
+   "km": "ខែហ្សុលកក់ដះ",
+   "audio": "month_dhu_al_qadah",
+   "src": "mp3-2/month_dhu_al_qadah.mp3"
+  },
+  {
+   "key": "dhulhijjah",
+   "i": 12,
+   "ar": "شَهْرُ ذِي الْحِجَّةِ",
+   "short": "ذو الحجة",
+   "en": "Dhu al-Hijjah",
+   "km": "ខែហ្សុលហិជ្ជះ",
+   "audio": "month_dhu_al_hijjah",
+   "src": "mp3-2/month_dhu_al_hijjah.mp3"
+  }
+ ],
+ "animals": [
+  {
+   "key": "camel_f",
+   "emoji": "🐪",
+   "ar": "نَاقَةٌ",
+   "en": "Camel (female)",
+   "km": "អូដ្ឋញី",
+   "audio": "naqa",
+   "src": "mp3/naqa.mp3"
+  },
+  {
+   "key": "camel_m",
+   "emoji": "🐫",
+   "ar": "جَمَلٌ",
+   "en": "Camel (male)",
+   "km": "អូដ្ឋឈ្មោល",
+   "audio": "jamal",
+   "src": "mp3/jamal.mp3"
+  },
+  {
+   "key": "cow",
+   "emoji": "🐄",
+   "ar": "بَقَرَةٌ",
+   "en": "Cow",
+   "km": "មេគោ",
+   "audio": "cow",
+   "src": "mp3-2/cow.mp3"
+  },
+  {
+   "key": "bull",
+   "emoji": "🐂",
+   "ar": "ثَوْرٌ",
+   "en": "Bull / Ox",
+   "km": "គោឈ្មោល",
+   "audio": "ox_bull",
+   "src": "mp3-2/ox_bull.mp3"
+  },
+  {
+   "key": "calf",
+   "emoji": "🐮",
+   "ar": "عِجْلٌ",
+   "en": "Calf",
+   "km": "កូនគោ",
+   "audio": "calf",
+   "src": "mp3/calf.mp3"
+  },
+  {
+   "key": "buffalo",
+   "emoji": "🐃",
+   "ar": "جَامُوسٌ",
+   "en": "Water buffalo",
+   "km": "ក្របី",
+   "audio": "animal_buffalo",
+   "src": "mp3/animal_buffalo.mp3"
+  },
+  {
+   "key": "sheep",
+   "emoji": "🐑",
+   "ar": "خَرُوفٌ",
+   "en": "Sheep",
+   "km": "ចៀម",
+   "audio": "sheep",
+   "src": "mp3/sheep.mp3"
+  },
+  {
+   "key": "goat",
+   "emoji": "🐐",
+   "ar": "مَاعِزٌ",
+   "en": "Goat",
+   "km": "ពពែ",
+   "audio": "goat",
+   "src": "mp3/goat.mp3"
+  },
+  {
+   "key": "horse",
+   "emoji": "🐎",
+   "ar": "حِصَانٌ",
+   "en": "Horse",
+   "km": "សេះ",
+   "audio": "horse",
+   "src": "mp3/horse.mp3"
+  },
+  {
+   "key": "donkey",
+   "emoji": "🫏",
+   "ar": "حِمَارٌ",
+   "en": "Donkey",
+   "km": "លា",
+   "audio": "donkey",
+   "src": "mp3/donkey.mp3"
+  },
+  {
+   "key": "rooster",
+   "emoji": "🐓",
+   "ar": "دِيكٌ",
+   "en": "Rooster",
+   "km": "មាន់ឈ្មោល",
+   "audio": "rooster",
+   "src": "mp3/rooster.mp3"
+  },
+  {
+   "key": "hen",
+   "emoji": "🐔",
+   "ar": "دَجَاجَةٌ",
+   "en": "Hen",
+   "km": "មេមាន់",
+   "audio": "chicken",
+   "src": "mp3/chicken.mp3"
+  },
+  {
+   "key": "chick",
+   "emoji": "🐤",
+   "ar": "كَتْكُوتٌ",
+   "en": "Chick",
+   "km": "កូនមាន់",
+   "audio": "chick",
+   "src": "mp3/chick.mp3"
+  },
+  {
+   "key": "turkey",
+   "emoji": "🦃",
+   "ar": "دِيكٌ رُومِيٌّ",
+   "en": "Turkey",
+   "km": "មាន់បារាំង",
+   "audio": "turkey",
+   "src": "mp3/turkey.mp3"
+  },
+  {
+   "key": "duck",
+   "emoji": "🦆",
+   "ar": "بَطَّةٌ",
+   "en": "Duck",
+   "km": "ទា",
+   "audio": "duck",
+   "src": "mp3/duck.mp3"
+  },
+  {
+   "key": "goose",
+   "emoji": "🪿",
+   "ar": "إِوَزَّةٌ",
+   "en": "Goose",
+   "km": "ក្ងាន",
+   "audio": "goose",
+   "src": "mp3/goose.mp3"
+  },
+  {
+   "key": "rabbit",
+   "emoji": "🐇",
+   "ar": "أَرْنَبٌ",
+   "en": "Rabbit",
+   "km": "ទន្សាយ",
+   "audio": "animal_rabbit",
+   "src": "mp3/animal_rabbit.mp3"
+  },
+  {
+   "key": "cat",
+   "emoji": "🐈",
+   "ar": "قِطَّةٌ",
+   "en": "Cat",
+   "km": "ឆ្មា",
+   "audio": "cat",
+   "src": "mp3/cat.mp3"
+  },
+  {
+   "key": "dog",
+   "emoji": "🐕",
+   "ar": "كَلْبٌ",
+   "en": "Dog",
+   "km": "ឆ្កែ",
+   "audio": "animal_dog",
+   "src": "mp3/animal_dog.mp3"
+  },
+  {
+   "key": "lion",
+   "emoji": "🦁",
+   "ar": "أَسَدٌ",
+   "en": "Lion",
+   "km": "តោ",
+   "audio": "animal_lion",
+   "src": "mp3/animal_lion.mp3"
+  },
+  {
+   "key": "tiger",
+   "emoji": "🐅",
+   "ar": "نَمِرٌ",
+   "en": "Tiger",
+   "km": "ខ្លា",
+   "audio": "animal_tiger",
+   "src": "mp3/animal_tiger.mp3"
+  },
+  {
+   "key": "elephant",
+   "emoji": "🐘",
+   "ar": "فِيلٌ",
+   "en": "Elephant",
+   "km": "ដំរី",
+   "audio": "animal_elephant",
+   "src": "mp3/animal_elephant.mp3"
+  },
+  {
+   "key": "bear",
+   "emoji": "🐻",
+   "ar": "دُبٌّ",
+   "en": "Bear",
+   "km": "ខ្លាឃ្មុំ",
+   "audio": "animal_bear",
+   "src": "mp3/animal_bear.mp3"
+  },
+  {
+   "key": "monkey",
+   "emoji": "🐒",
+   "ar": "قِرْدٌ",
+   "en": "Monkey",
+   "km": "ស្វា",
+   "audio": "monkey",
+   "src": "mp3-2/monkey.mp3"
+  },
+  {
+   "key": "gorilla",
+   "emoji": "🦍",
+   "ar": "غُورِيلَّا",
+   "en": "Gorilla",
+   "km": "ស្វាហ្គោរីឡា",
+   "audio": "gorilla",
+   "src": "mp3/gorilla.mp3"
+  },
+  {
+   "key": "fox",
+   "emoji": "🦊",
+   "ar": "ثَعْلَبٌ",
+   "en": "Fox",
+   "km": "កញ្ជ្រោង",
+   "audio": "fox",
+   "src": "mp3-2/fox.mp3"
+  },
+  {
+   "key": "wolf",
+   "emoji": "🐺",
+   "ar": "ذِئْبٌ",
+   "en": "Wolf",
+   "km": "ចចក",
+   "audio": "animal_wolf",
+   "src": "mp3/animal_wolf.mp3"
+  },
+  {
+   "key": "zebra",
+   "emoji": "🦓",
+   "ar": "حِمَارٌ وَحْشِيٌّ",
+   "en": "Zebra",
+   "km": "សេះបង្កង់",
+   "audio": "zebra",
+   "src": "mp3/zebra.mp3"
+  },
+  {
+   "key": "giraffe",
+   "emoji": "🦒",
+   "ar": "زَرَافَةٌ",
+   "en": "Giraffe",
+   "km": "សត្វហ្សីរ៉ាហ្វ",
+   "audio": "animal_giraffe",
+   "src": "mp3/animal_giraffe.mp3"
+  },
+  {
+   "key": "snake",
+   "emoji": "🐍",
+   "ar": "ثُعْبَانٌ / حَيَّةٌ",
+   "en": "Snake",
+   "km": "ពស់",
+   "audio": "snake",
+   "src": "mp3-2/snake.mp3"
+  },
+  {
+   "key": "crocodile",
+   "emoji": "🐊",
+   "ar": "تِمْسَاحٌ",
+   "en": "Crocodile",
+   "km": "ក្រពើ",
+   "audio": "animal_crocodile",
+   "src": "mp3/animal_crocodile.mp3"
+  },
+  {
+   "key": "turtle",
+   "emoji": "🐢",
+   "ar": "سُلَحْفَاةٌ",
+   "en": "Turtle",
+   "km": "អណ្ដើក",
+   "audio": "animal_turtle",
+   "src": "mp3/animal_turtle.mp3"
+  },
+  {
+   "key": "frog",
+   "emoji": "🐸",
+   "ar": "ضِفْدَعٌ",
+   "en": "Frog",
+   "km": "កង្កែប",
+   "audio": "animal_frog",
+   "src": "mp3/animal_frog.mp3"
+  },
+  {
+   "key": "mouse",
+   "emoji": "🐁",
+   "ar": "فَأْرٌ",
+   "en": "Mouse",
+   "km": "កណ្ដុរ",
+   "audio": "animal_mouse",
+   "src": "mp3/animal_mouse.mp3"
+  },
+  {
+   "key": "eagle",
+   "emoji": "🦅",
+   "ar": "نَسْرٌ",
+   "en": "Eagle",
+   "km": "ឥន្ទ្រី",
+   "audio": "eagle",
+   "src": "mp3-2/eagle.mp3"
+  },
+  {
+   "key": "owl",
+   "emoji": "🦉",
+   "ar": "بُومَةٌ",
+   "en": "Owl",
+   "km": "មៀម",
+   "audio": "animal_owl",
+   "src": "mp3/animal_owl.mp3"
+  },
+  {
+   "key": "pigeon",
+   "emoji": "🕊️",
+   "ar": "حَمَامَةٌ",
+   "en": "Dove / Pigeon",
+   "km": "សត្វព្រាប",
+   "audio": "animal_pigeon",
+   "src": "mp3/animal_pigeon.mp3"
+  },
+  {
+   "key": "parrot",
+   "emoji": "🦜",
+   "ar": "بَبَّغَاءُ",
+   "en": "Parrot",
+   "km": "សេក",
+   "audio": "animal_parrot",
+   "src": "mp3/animal_parrot.mp3"
+  },
+  {
+   "key": "bee",
+   "emoji": "🐝",
+   "ar": "نَحْلَةٌ",
+   "en": "Bee",
+   "km": "ឃ្មុំ",
+   "audio": "animal_bee",
+   "src": "mp3/animal_bee.mp3"
+  },
+  {
+   "key": "butterfly",
+   "emoji": "🦋",
+   "ar": "فَرَاشَةٌ",
+   "en": "Butterfly",
+   "km": "មេអំបៅ",
+   "audio": "animal_butterfly",
+   "src": "mp3/animal_butterfly.mp3"
+  },
+  {
+   "key": "ant",
+   "emoji": "🐜",
+   "ar": "نَمْلَةٌ",
+   "en": "Ant",
+   "km": "ស្រមោច",
+   "audio": "animal_ant",
+   "src": "mp3/animal_ant.mp3"
+  },
+  {
+   "key": "fish",
+   "emoji": "🐟",
+   "ar": "سَمَكَةٌ",
+   "en": "Fish",
+   "km": "ត្រី",
+   "audio": "fish",
+   "src": "mp3/fish.mp3"
+  },
+  {
+   "key": "shark",
+   "emoji": "🦈",
+   "ar": "قِرْشٌ",
+   "en": "Shark",
+   "km": "ត្រីឆ្លាម",
+   "audio": "shark",
+   "src": "mp3-2/shark.mp3"
+  },
+  {
+   "key": "whale",
+   "emoji": "🐋",
+   "ar": "حُوتٌ",
+   "en": "Whale",
+   "km": "ត្រីបាឡែន",
+   "audio": "whale",
+   "src": "mp3/whale.mp3"
+  },
+  {
+   "key": "dolphin",
+   "emoji": "🐬",
+   "ar": "دُلْفِينٌ",
+   "en": "Dolphin",
+   "km": "ផ្សោត",
+   "audio": "dolphin",
+   "src": "mp3-2/dolphin.mp3"
+  },
+  {
+   "key": "octopus",
+   "emoji": "🐙",
+   "ar": "أُخْطُبُوطٌ",
+   "en": "Octopus",
+   "km": "មឹកពីងពាង",
+   "audio": "octopus",
+   "src": "mp3/octopus.mp3"
+  },
+  {
+   "key": "squid",
+   "emoji": "🦑",
+   "ar": "حَبَّارٌ",
+   "en": "Squid",
+   "km": "មឹក",
+   "audio": "squid",
+   "src": "mp3/squid.mp3"
+  },
+  {
+   "key": "crab",
+   "emoji": "🦀",
+   "ar": "سَرَطَانٌ",
+   "en": "Crab",
+   "km": "ក្ដាម",
+   "audio": "crab",
+   "src": "mp3-2/crab.mp3"
+  },
+  {
+   "key": "lobster",
+   "emoji": "🦞",
+   "ar": "جَرَادُ الْبَحْرِ",
+   "en": "Lobster",
+   "km": "បង្កងសមុទ្រ",
+   "audio": "lobster",
+   "src": "mp3/lobster.mp3"
+  },
+  {
+   "key": "shrimp",
+   "emoji": "🦐",
+   "ar": "رُوبِيَانٌ / جَمْبَرِيٌّ",
+   "en": "Shrimp",
+   "km": "បង្គា",
+   "audio": "shrimp_prawn",
+   "src": "mp3/shrimp_prawn.mp3"
+  },
+  {
+   "key": "oyster",
+   "emoji": "🦪",
+   "ar": "مَحَارَةٌ",
+   "en": "Oyster",
+   "km": "គ្រំ",
+   "audio": "oyster",
+   "src": "mp3/oyster.mp3"
+  }
+ ],
+ "fruits": [
+  {
+   "key": "apple",
+   "emoji": "🍎",
+   "ar": "تُفَّاحَةٌ",
+   "en": "Apple",
+   "km": "ផ្លែប៉ោម",
+   "audio": "apple",
+   "src": "mp3-3/apple.mp3"
+  },
+  {
+   "key": "banana",
+   "emoji": "🍌",
+   "ar": "مَوْزَةٌ",
+   "en": "Banana",
+   "km": "ផ្លែចេក",
+   "audio": "banana",
+   "src": "mp3-3/banana.mp3"
+  },
+  {
+   "key": "orange",
+   "emoji": "🍊",
+   "ar": "بُرْتُقَالَةٌ",
+   "en": "Orange",
+   "km": "ផ្លែក្រូច",
+   "audio": "orange",
+   "src": "mp3-3/orange.mp3"
+  },
+  {
+   "key": "grapes",
+   "emoji": "🍇",
+   "ar": "عِنَبٌ",
+   "en": "Grapes",
+   "km": "ផ្លែទំពាំងបាយជូរ",
+   "audio": "grapes",
+   "src": "mp3-3/grapes.mp3"
+  },
+  {
+   "key": "lemon",
+   "emoji": "🍋",
+   "ar": "لَيْمُونَةٌ",
+   "en": "Lemon",
+   "km": "ផ្លែក្រូចឆ្មា",
+   "audio": "lemon",
+   "src": "mp3-3/lemon.mp3"
+  },
+  {
+   "key": "watermelon",
+   "emoji": "🍉",
+   "ar": "بِطِّيخَةٌ",
+   "en": "Watermelon",
+   "km": "ផ្លែឪឡឹក",
+   "audio": "watermelon",
+   "src": "mp3-3/watermelon.mp3"
+  },
+  {
+   "key": "dates",
+   "emoji": "SVG",
+   "ar": "تَمْرٌ",
+   "en": "Dates",
+   "km": "ផ្លែល្មើ",
+   "audio": "fruit_dates",
+   "src": "mp3-3/fruit_dates.mp3"
+  },
+  {
+   "key": "fig",
+   "emoji": "SVG",
+   "ar": "تِينٌ",
+   "en": "Fig",
+   "km": "ផ្លែល្វា",
+   "audio": "fruit_fig",
+   "src": "mp3-3/fruit_fig.mp3"
+  },
+  {
+   "key": "pomegranate",
+   "emoji": "SVG",
+   "ar": "رُمَّانٌ",
+   "en": "Pomegranate",
+   "km": "ផ្លែទទឹម",
+   "audio": "fruit_pomegranate",
+   "src": "mp3-3/fruit_pomegranate.mp3"
+  },
+  {
+   "key": "pineapple",
+   "emoji": "🍍",
+   "ar": "أَنَانَاسٌ",
+   "en": "Pineapple",
+   "km": "ផ្លែម្នាស់",
+   "audio": "fruit_pineapple",
+   "src": "mp3-3/fruit_pineapple.mp3"
+  },
+  {
+   "key": "mango",
+   "emoji": "🥭",
+   "ar": "مَانْجُو",
+   "en": "Mango",
+   "km": "ផ្លែស្វាយ",
+   "audio": "fruit_mango",
+   "src": "mp3-3/fruit_mango.mp3"
+  },
+  {
+   "key": "coconut",
+   "emoji": "🥥",
+   "ar": "جَوْزُ الْهِنْدِ",
+   "en": "Coconut",
+   "km": "ផ្លែដូង",
+   "audio": "fruit_coconut",
+   "src": "mp3-3/fruit_coconut.mp3"
+  },
+  {
+   "key": "strawberry",
+   "emoji": "🍓",
+   "ar": "فَرَاوِلَةٌ",
+   "en": "Strawberry",
+   "km": "ផ្លែស្ត្របឺរី",
+   "audio": "fruit_strawberry",
+   "src": "mp3-3/fruit_strawberry.mp3"
+  },
+  {
+   "key": "cherries",
+   "emoji": "🍒",
+   "ar": "كَرَزٌ",
+   "en": "Cherries",
+   "km": "ផ្លែឆឺរី",
+   "audio": "fruit_cherries",
+   "src": "mp3-3/fruit_cherries.mp3"
+  },
+  {
+   "key": "peach",
+   "emoji": "🍑",
+   "ar": "خَوْخٌ",
+   "en": "Peach",
+   "km": "ផ្លែប៉ែស",
+   "audio": "fruit_peach",
+   "src": "mp3-3/fruit_peach.mp3"
+  },
+  {
+   "key": "pear",
+   "emoji": "🍐",
+   "ar": "كُمَّثْرَى",
+   "en": "Pear",
+   "km": "ផ្លែសារី",
+   "audio": "fruit_pear",
+   "src": "mp3-3/fruit_pear.mp3"
+  },
+  {
+   "key": "kiwi",
+   "emoji": "🥝",
+   "ar": "كِيوِي",
+   "en": "Kiwi",
+   "km": "ផ្លែគីវី",
+   "audio": "fruit_kiwi",
+   "src": "mp3-3/fruit_kiwi.mp3"
+  },
+  {
+   "key": "melon",
+   "emoji": "🍈",
+   "ar": "شَمَّامٌ",
+   "en": "Melon",
+   "km": "ផ្លែត្រសក់ស្រូវ",
+   "audio": "fruit_melon",
+   "src": "mp3-3/fruit_melon.mp3"
+  },
+  {
+   "key": "avocado",
+   "emoji": "🥑",
+   "ar": "أَفُوكَادُو",
+   "en": "Avocado",
+   "km": "ផ្លែប័រ",
+   "audio": "fruit_avocado",
+   "src": "mp3-3/fruit_avocado.mp3"
+  },
+  {
+   "key": "olives",
+   "emoji": "🫒",
+   "ar": "زَيْتُونٌ",
+   "en": "Olives",
+   "km": "ផ្លែអូលីវ",
+   "audio": "fruit_olives",
+   "src": "mp3-3/fruit_olives.mp3"
+  },
+  {
+   "key": "blueberries",
+   "emoji": "🫐",
+   "ar": "تُوتٌ أَزْرَقُ",
+   "en": "Blueberries",
+   "km": "ផ្លែប៊្លូបឺរី",
+   "audio": "fruit_blueberries",
+   "src": "mp3-3/fruit_blueberries.mp3"
+  }
+ ]
+}
